@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\bin\Debug\DiDaJiangCheng.Common.dll
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\bin\Debug\DiDaJiangCheng.Common.pdb
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.dll
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.pdb
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.dll
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.pdb
+C:\Users\Administrator\Desktop\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.csprojResolveAssemblyReference.cache
+E:\杨标的工作文件\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.dll
+E:\杨标的工作文件\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.pdb
+E:\杨标的工作文件\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.csprojResolveAssemblyReference.cache
+E:\杨标的工作文件\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.dll
+E:\杨标的工作文件\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.pdb
+D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.dll
+D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.pdb
+D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.dll
+D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.pdb
