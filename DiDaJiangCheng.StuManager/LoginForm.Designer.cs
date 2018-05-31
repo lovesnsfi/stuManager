@@ -143,6 +143,7 @@
             this.Controls.Add(this.txtUserName);
             this.Name = "LoginForm";
             this.Text = "";
+            this.Load += new System.EventHandler(this.LoginForm_Load);
             this.Controls.SetChildIndex(this.picMini, 0);
             this.Controls.SetChildIndex(this.picClose, 0);
             this.Controls.SetChildIndex(this.txtUserName, 0);

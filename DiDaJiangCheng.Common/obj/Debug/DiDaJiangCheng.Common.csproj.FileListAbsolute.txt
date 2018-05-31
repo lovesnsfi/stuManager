@@ -14,3 +14,8 @@ D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项�
 D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.pdb
 D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.dll
 D:\杨标的工作文件\武汉软帝\校外实习\地大江城学院实习项目\Code\DiDaJiangCheng\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.pdb
+E:\C#\stuManager\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.dll
+E:\C#\stuManager\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Common.pdb
+E:\C#\stuManager\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.dll
+E:\C#\stuManager\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.pdb
+E:\C#\stuManager\DiDaJiangCheng.Common\obj\Debug\DiDaJiangCheng.Common.csprojResolveAssemblyReference.cache

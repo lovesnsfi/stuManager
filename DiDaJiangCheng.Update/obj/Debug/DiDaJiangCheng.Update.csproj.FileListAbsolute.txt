@@ -1,0 +1,10 @@
+E:\C#\stuManager\DiDaJiangCheng.Update\bin\Debug\DiDaJiangCheng.Update.exe
+E:\C#\stuManager\DiDaJiangCheng.Update\bin\Debug\DiDaJiangCheng.Update.pdb
+E:\C#\stuManager\DiDaJiangCheng.Update\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\C#\stuManager\DiDaJiangCheng.Update\obj\Debug\DiDaJiangCheng.Update.UpdateForm.resources
+E:\C#\stuManager\DiDaJiangCheng.Update\obj\Debug\DiDaJiangCheng.Update.Properties.Resources.resources
+E:\C#\stuManager\DiDaJiangCheng.Update\obj\Debug\DiDaJiangCheng.Update.csproj.GenerateResource.Cache
+E:\C#\stuManager\DiDaJiangCheng.Update\obj\Debug\DiDaJiangCheng.Update.exe
+E:\C#\stuManager\DiDaJiangCheng.Update\obj\Debug\DiDaJiangCheng.Update.pdb
+E:\C#\stuManager\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Update.exe
+E:\C#\stuManager\DiDaJiangCheng.StuManager\bin\Debug\DiDaJiangCheng.Update.pdb
