@@ -14,10 +14,12 @@ namespace DiDaJiangCheng.StuManager
     {
         public MyDataGridView()
         {
-            base.EnableHeadersVisualStyles = false;
-            base.AllowUserToResizeRows = false;
-            base.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            base.BackgroundColor = Color.AliceBlue;
+            this.AllowUserToAddRows = false;
+            this.AllowUserToDeleteRows = false;
+            this.EnableHeadersVisualStyles = false;
+            this.ReadOnly = true;
+            this.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            this.BackgroundColor = Color.AliceBlue;
         }
 
         /// <summary>
